@@ -19,7 +19,7 @@ Compiling, Training, and Evaluating the Model
   * I selected 2 hidden layers to simplify the number of neurons involved
   * I selected relu, tanh, and sigmoid activation functions to increase model accuracy, focusing on relu for its simplicity and sigmoid for its value in binary (0 or 1) classification
 * were you able to achieve the target model performance?
-  * I was not able to achieve the target model performance; my models' accuracies were in the 72-73% range.
+  * I was not able to achieve the target model performance; despite 3 attempts to optimize, my models' accuracies were solidly in the 72-73% range.
 * what steps did you take in your attempts to increase model performance?
   * in my attempts to increase model performance, I adjusted neuron numbers, holding some values constant (from the starter code) and increasing/decreasing others.
   * I also adjusted activation functions in an attempt to increase model performance
